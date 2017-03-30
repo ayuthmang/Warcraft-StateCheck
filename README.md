@@ -9,11 +9,11 @@ This program has more abilities such as:
   1.2) Auto focus the window game (Warcraft III) with out you do anything.
   1.3) Show a simply messagebox text likewise 1.1)
   
-  
 #How to use ?
- 1.) Open the program.
- 2.) Click enable.
- 3.) Join a room and go watch youtube without care anything.
+
+1) Open the program.
+2) Click enable.
+3) Join a room and go watch youtube without care anything.
  
 Update Log:
 
