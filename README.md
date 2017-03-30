@@ -1,7 +1,6 @@
 # Warcraft III State Check
 
-Warcraft III State Check is the program that contain ability to check current state in Warcraft III game.
-
+Warcraft III State Check is the program that contain ability to check current state in Warcraft III game for patch 1.26a .
 
 This program has more abilities such as:
 
@@ -10,9 +9,17 @@ This program has more abilities such as:
   1.2) Auto focus the window game (Warcraft III) with out you do anything.
   1.3) Show a simply messagebox text likewise 1.1)
   
+  
+#How to use ?
+ 1.) Open the program.
+ 2.) Click enable.
+ 3.) Join a room and go watch youtube without care anything.
  
 Update Log:
 
+  Release 4:
+  - Improved API function for focus window of Warcraft III game more smart and quickly.
+  - Improved check process of game (Warcraft III)
   Release 3:
   - Fixed this program works for Map "Dota all Stars" or a map that have only 10 players.
   - Redesigned all new program.
@@ -20,16 +27,6 @@ Update Log:
   - Added "Sound player" function.
   - Added new status "Loading map.."
   - Fixed messagebox bugs.
-
-
-
-
-
-
-
-
-
-
 
 
 
