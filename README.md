@@ -1,6 +1,6 @@
 # Warcraft III State Check
 
-Warcraft III State Check is the program that contain ability to check current state in Warcraft III game for patch 1.26a .
+Warcraft III State Check is the program that contain ability to check current state in Warcraft III game for patch 1.26a.
 
 This program has more abilities such as:
 
@@ -14,7 +14,11 @@ This program has more abilities such as:
 1) Make sure your game is running and open this program.
 2) Click enable.
 3) Join a room and go watch youtube without care anything.
- 
+
+#Caution
+
+Once you've got a problem for try to preview a design form, try to build the app one time and try to open design mode.
+
 Update Log:
 
   Release 4:
