@@ -37,7 +37,8 @@ Update Log:
 
 - Thanks to Prettyangel for her address (in WC3 1.24e)
 
-Downloadable binaries for Windows can be found on mediafire website:
+Downloadable binaries for Windows can be found on github:
 
-Updated R4: http://www.mediafire.com/file/1s8ox318e6duprg/Warcraft_StateCheck_1.26_r4.exe
+https://github.com/blackSourcez/Warcraft-StateCheck/releases
+
 
