@@ -27,7 +27,7 @@ Once you've got a problem for try to preview a design form, try to build the app
   
   Release 3:
   - Fixed this program works for Map "Dota all Stars" or a map that have only 10 players.
-  - Redesigned all new program.
+  - Redesigned user interface.
   - Fixed "Auto Focus" has more Stability.
   - Added "Sound player" function.
   - Added new status "Loading map.."
