@@ -36,6 +36,5 @@ Once you've got a problem for try to preview a design form, try to build the app
 Downloadable binaries for Windows can be found on github:  
 https://github.com/blackSourcez/Warcraft-StateCheck/releases
 
-# Special Thanks
-
+## Special Thanks  
 The based memory address comes from Prettyangel in Warcraft III 1.24e (currently in Warcraft III 1.26a)
