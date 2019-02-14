@@ -9,17 +9,17 @@ This program has more abilities such as:
   1.2) Auto focus the window game (Warcraft III) with out you do anything.
   1.3) Show a simply messagebox text likewise 1.1)
   
-# How to use ?
+## How to use ?
 
 1) Make sure your game is running and open this program.
 2) Click enable.
 3) Join a room and go watch youtube without care anything.
 
-# Caution for building a binary
+## Caution for building a binary
 
 Once you've got a problem for try to preview a design form, try to build the app one time and try to open design mode.
 
-# Update log:
+## Update log:
 
   Release 4:
   - Improved API function for focus window of Warcraft III game more smart and quickly.
