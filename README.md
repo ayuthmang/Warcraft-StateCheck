@@ -33,12 +33,7 @@ Once you've got a problem for try to preview a design form, try to build the app
   - Added new status "Loading map.."
   - Fixed messagebox bugs.
 
-
-
-- Thanks to Prettyangel for her address (in WC3 1.24e)
-
-Downloadable binaries for Windows can be found on github:
-
+Downloadable binaries for Windows can be found on github:  
 https://github.com/blackSourcez/Warcraft-StateCheck/releases
 
 # Special Thanks
