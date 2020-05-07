@@ -4,10 +4,10 @@ Warcraft III State Check is the program that contain ability to check current st
 
 This program has more abilities such as:
 
-1.) If you were kicked or your game has been started can do 3 abilities 
-  1.1) Play a cute google translate's sound when your game started or you were kicked.
-  1.2) Auto focus the window game (Warcraft III) with out you do anything.
-  1.3) Show a simply messagebox text likewise 1.1).
+1. If you were kicked or your game has been started can do 3 abilities 
+   1. Play a cute google translate's sound when your game started or you were kicked.
+   2. Auto focus the window game (Warcraft III) with out you do anything.
+   3. Show a simply messagebox text likewise 1.1).
   
 ## How to use ?
 
